@@ -1,5 +1,12 @@
 # Hi, I’m Sandeep 👋
 
+
+<p align="center">
+  <img src="B1F03C2C-B019-4A16-BAA5-CA78E1C07A44_1_105_c.jpeg" alt="Sandeep Reddy Karumudi" width="150"/>
+</p>
+
+
+
 Welcome to my GitHub! I’m a business analytics professional with over 3.5 years of industry experience in financial modeling, data analysis, and business process optimization. I’m passionate about using data-driven insights to solve complex business problems and optimize processes.  
 
 My journey began in financial services, where I developed expertise in credit risk analysis and process automation at SS&C. Fueled by a passion for transforming data into actionable insights, I pursued a Master’s in Business Analytics at the University of Wisconsin-Madison. Here, I deepened my skills in predictive modeling, causal experimentation, and scalable cloud architectures.  
