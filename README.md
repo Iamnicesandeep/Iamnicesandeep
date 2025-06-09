@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="B1F03C2C-B019-4A16-BAA5-CA78E1C07A44_1_105_c.jpeg" alt="Sandeep Reddy Karumudi" width="150"/>
+  <img src="B1F03C2C-B019-4A16-BAA5-CA78E1C07A44_1_105_c.jpeg" alt="Sandeep Reddy Karumudi" width="300"/>
 </p>
 
 
