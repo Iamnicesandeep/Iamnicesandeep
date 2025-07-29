@@ -7,11 +7,11 @@
 
 
 
-Welcome to my GitHub! I’m a business analytics professional with 5+ years of experience across financial services, manufacturing, and consumer goods—focused on financial modeling, credit risk, reporting automation, and business process optimization. I’m passionate about transforming raw data into actionable insights that enable faster and smarter business decisions across global operations.
+Welcome to my GitHub! I’m a business analytics professional with 5+ years of experience across financial services, manufacturing, and consumer goods, focused on financial modeling, credit risk, reporting automation, and business process optimization. I’m passionate about transforming raw data into actionable insights that enable faster and smarter business decisions across global operations.
 
-My journey began in financial services, where I built credit risk models and automated reporting pipelines at SS&C, supporting 40+ institutional clients. I later worked with CNH Industrial as part of my analytics capstone, designing pricing engines and expected loss models using warranty claims and equipment metadata. Earlier in my career, I also contributed to Lactalis India, where I developed SKU level profitability trackers and forecasting models that directly improved margin visibility and financial planning accuracy. To expand my analytical toolkit, I pursued a Master’s in Business Analytics at the University of Wisconsin – Madison, focusing on predictive modeling, causal experimentation, and scalable cloud-based data pipelines.
+My journey began in financial services, where I built credit risk models and automated reporting pipelines at SS&C, supporting 40+ institutional clients. I later worked with CNH Industrial as part of my analytics capstone, designing pricing engines and expected loss models using warranty claims and equipment metadata. Earlier in my career, I also contributed to Lactalis India, where I developed SKU level profitability trackers and forecasting models that directly improved margin visibility and financial planning accuracy. To expand my analytical toolkit, I pursued a Master’s in Business Analytics at the University of Wisconsin – Madison, focusing on predictive modeling, causal experimentation, and scalable cloud based data pipelines.
 
-Outside of work, I enjoy playing badminton and exploring new places—whether hiking local trails or traveling to new cities, I find fresh inspiration that I bring back into my work.
+Outside of work, I enjoy playing badminton and exploring new places, whether hiking local trails or traveling to new cities, I find fresh inspiration that I bring back into my work.
 
 🎓 Education:
 	•	Master’s in Business Analytics, University of Wisconsin–Madison (GPA: 3.90)
