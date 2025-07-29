@@ -7,25 +7,28 @@
 
 
 
-Welcome to my GitHub! I’m a business analytics professional with over 3.5 years of industry experience in financial modeling, data analysis, and business process optimization. I’m passionate about using data-driven insights to solve complex business problems and optimize processes.  
+Welcome to my GitHub! I’m a business analytics professional with 5+ years of experience across financial services, manufacturing, and consumer goods—focused on financial modeling, credit risk, reporting automation, and business process optimization. I’m passionate about transforming raw data into actionable insights that enable faster and smarter business decisions across global operations.
 
-My journey began in financial services, where I developed expertise in credit risk analysis and process automation at SS&C. Fueled by a passion for transforming data into actionable insights, I pursued a Master’s in Business Analytics at the University of Wisconsin-Madison. Here, I deepened my skills in predictive modeling, causal experimentation, and scalable cloud architectures.  
+My journey began in financial services, where I built credit risk models and automated reporting pipelines at SS&C, supporting 40+ institutional clients. I later worked with CNH Industrial as part of my analytics capstone, designing pricing engines and expected loss models using warranty claims and equipment metadata. Earlier in my career, I also contributed to Lactalis India, where I developed SKU level profitability trackers and forecasting models that directly improved margin visibility and financial planning accuracy. To expand my analytical toolkit, I pursued a Master’s in Business Analytics at the University of Wisconsin – Madison, focusing on predictive modeling, causal experimentation, and scalable cloud-based data pipelines.
 
-Beyond my professional pursuits, I enjoy playing badminton and exploring new places. Whether it’s hiking local trails or traveling to new cities, I find inspiration and fresh perspectives that I bring back into my work.  
+Outside of work, I enjoy playing badminton and exploring new places—whether hiking local trails or traveling to new cities, I find fresh inspiration that I bring back into my work.
 
-🎓 **Education:**  
-- Master’s in Business Analytics, University of Wisconsin-Madison (GPA: 3.9)  
-- MBA in Finance, ICFAI University, Hyderabad (GPA: 3.24)  
+🎓 Education:
+	•	Master’s in Business Analytics, University of Wisconsin–Madison (GPA: 3.90)
+	•	MBA in Finance, ICFAI University, Hyderabad (GPA: 3.24)
+	•	Bachelor of Technology in Electronics, K L University, Vijayawada (GPA: 3.54)
 
-🌐 **Professional Experience Highlights:**  
-- Designed a dynamic pricing model for equipment insurance at CNH, leveraging warranty claims data and advanced statistical modeling.  
-- Automated risk and trade reporting at SS&C, enhancing operational efficiency and data quality for 40+ global clients.  
+🌐 Professional Experience Highlights:
+	•	Designed and deployed a dynamic pricing engine at CNH, using Python and Excel VBA to model segment-level loss risk and simulate premiums under varying cost drivers.
+	•	Built classification models and automated credit risk dashboards at SS&C, reducing default exposure by 12% and saving 120+ hours/month through reporting automation.
+	•	Developed profitability tracking tools and forecasting models at Lactalis, uncovering $152K in margin leakage and improving gross margin by 4.2%.
+	•	Collaborated with cross-functional teams to build dashboards, streamline trade activity tracking, and enhance data consistency across global systems. 
 
 ---
 
 ## 💼 Skills
 
-- **Languages/Tools:** SQL (advanced), Python, Excel (advanced), Tableau, Power BI, VBA, Jira  
+- **Languages/Tools:** SQL (advanced), Snowflake, Python, Excel (advanced), Tableau, Power BI, VBA, Jira 
 - **Data Systems:** Relational Databases, ETL Pipelines, Financial Data Systems  
 - **Cloud Technology:** AWS (S3, Glue, Redshift, SageMaker)  
 - **Domains:** Financial Services, Risk Analytics, Business Process Optimization  
