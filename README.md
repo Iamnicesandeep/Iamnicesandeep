@@ -1,4 +1,4 @@
-# Hi, I’m Sandeep 👋
+# Hi, I’m Sandeep! 👋 Welcome to my GitHub!
 
 
 <p align="center">
@@ -7,22 +7,35 @@
 
 
 
-Welcome to my GitHub! I’m a business analytics professional with 5+ years of experience across financial services, manufacturing, and consumer goods, focused on financial modeling, credit risk, reporting automation, and business process optimization. I’m passionate about transforming raw data into actionable insights that enable faster and smarter business decisions across global operations.
+I’m a Data Scientist with 5+ years of experience applying machine learning, predictive analytics, and data engineering across financial services, manufacturing, and consumer goods. I specialize in Python, SQL, Excel (VBA), Tableau, and AWS/Snowflake, using these tools to build predictive models, Monte Carlo simulations, dashboards, and automated pipelines that improve decision-making and business performance.
 
-My journey began in financial services, where I built credit risk models and automated reporting pipelines at SS&C, supporting 40+ institutional clients. I later worked with CNH Industrial as part of my analytics capstone, designing pricing engines and expected loss models using warranty claims and equipment metadata. Earlier in my career, I also contributed to Lactalis India, where I developed SKU level profitability trackers and forecasting models that directly improved margin visibility and financial planning accuracy. To expand my analytical toolkit, I pursued a Master’s in Business Analytics at the University of Wisconsin – Madison, focusing on predictive modeling, causal experimentation, and scalable cloud based data pipelines.
+⸻
 
-Outside of work, I enjoy playing badminton and exploring new places, whether hiking local trails or traveling to new cities, I find fresh inspiration that I bring back into my work.
+🚀 My Journey
+	•	At CNH Industrial, I developed supervised learning models (XGBoost, Random Forest) in Python/SQL using lifecycle and warranty data, improving pricing precision by 22%. I also built Monte Carlo simulations to test premium sensitivity under inflation and equipment complexity, strengthening forecasting and reducing approval cycles by 40%.
+	•	At SS&C Technologies, I advanced from Business Analyst to Senior Business Analyst, where I built Tableau/Excel dashboards integrated with AWS and SQL pipelines, improving reporting accuracy to 99% and reducing prep time by 25%. I also developed advanced Excel VBA forecasting models that boosted credit risk classification accuracy to 93% and reduced portfolio defaults by 12%.
+	•	Earlier at Lactalis India, I collaborated with finance and strategy teams to build forecasting models and profitability dashboards, uncovering ~$1.52M in margin leakage and driving leadership actions that improved gross margin by 4.2%. Automation through Excel VBA saved 40+ hours per month and improved reporting accuracy.
 
-🎓 Education:
-	•	Master’s in Business Analytics, University of Wisconsin–Madison (GPA: 3.90)
-	•	MBA in Finance, ICFAI University, Hyderabad (GPA: 3.24)
-	•	Bachelor of Technology in Electronics, K L University, Vijayawada (GPA: 3.54)
+⸻
 
-🌐 Professional Experience Highlights:
-	•	Designed and deployed a dynamic pricing engine at CNH, using Python and Excel VBA to model segment-level loss risk and simulate premiums under varying cost drivers.
-	•	Built classification models and automated credit risk dashboards at SS&C, reducing default exposure by 12% and saving 120+ hours/month through reporting automation.
-	•	Developed profitability tracking tools and forecasting models at Lactalis, uncovering $152K in margin leakage and improving gross margin by 4.2%.
-	•	Collaborated with cross-functional teams to build dashboards, streamline trade activity tracking, and enhance data consistency across global systems. 
+🎓 Education
+	•	M.S. in Business Analytics – University of Wisconsin–Madison (GPA: 3.90)
+	•	MBA in Finance – ICFAI University (GPA: 3.24)
+	•	B.Tech in Electronics & Communications – K L University (GPA: 3.54)
+
+⸻
+
+🌐 Professional Highlights
+	•	Designed supervised ML models and Monte Carlo simulations at CNH to optimize insurance pricing and reduce financial risk.
+	•	Built credit risk forecasting models, dashboards, and automated reporting pipelines at SS&C, improving accuracy and reducing defaults.
+	•	Developed forecasting models and profitability dashboards at Lactalis, uncovering losses and driving 4.2% margin improvement.
+	•	Experienced in SQL, Python (pandas, scikit-learn, XGBoost), Tableau, Power BI, Excel VBA, AWS (Glue, S3, Redshift), and Snowflake.
+
+⸻
+
+🌱 Outside of Work
+
+I enjoy playing badminton, hiking, and exploring new cities — finding fresh perspectives that I bring back into solving complex data challenges.
 
 ---
 
