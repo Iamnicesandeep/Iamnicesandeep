@@ -13,13 +13,7 @@ I’m a Data Scientist with 5+ years of experience applying machine learning, pr
 
 ⸻
 
-🚀 My Journey
-
-At CNH Industrial, I developed supervised learning models (XGBoost, Random Forest) in Python/SQL using lifecycle and warranty data, improving pricing precision by 22%. I also built Monte Carlo simulations to test premium sensitivity under inflation and equipment complexity, strengthening forecasting and reducing approval cycles by 40%.
-
-At SS&C Technologies, I advanced from Business Analyst to Senior Business Analyst, where I built Tableau/Excel dashboards integrated with AWS and SQL pipelines, improving reporting accuracy to 99% and reducing prep time by 25%. I also developed advanced Excel VBA forecasting models that boosted credit risk classification accuracy to 93% and reduced portfolio defaults by 12%.
-
-Earlier at Lactalis India, I collaborated with finance and strategy teams to build forecasting models and profitability dashboards, uncovering ~$1.52M in margin leakage and driving leadership actions that improved gross margin by 4.2%. Automation through Excel VBA saved 40+ hours per month and improved reporting accuracy.
+🚀 My journey spans diverse industries, from manufacturing to financial services and consumer goods. At CNH Industrial, I developed supervised learning models (XGBoost, Random Forest) in Python/SQL using lifecycle and warranty data, improving pricing precision by 22%, and built Monte Carlo simulations to test premium sensitivity under inflation and equipment complexity, strengthening forecasting and reducing approval cycles by 40%. At SS&C Technologies, I advanced from Business Analyst to Senior Business Analyst, building Tableau/Excel dashboards integrated with AWS and SQL pipelines that improved reporting accuracy to 99% and cut preparation time by 25%. I also created advanced Excel VBA forecasting models that boosted credit risk classification accuracy to 93% and reduced portfolio defaults by 12%. Earlier at Lactalis India, I partnered with finance and strategy teams to build forecasting models and profitability dashboards, uncovering ~$1.52M in margin leakage and driving leadership decisions that improved gross margin by 4.2%, while automation through Excel VBA saved 40+ hours per month and enhanced reporting accuracy.
 
 ⸻
 
