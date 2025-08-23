@@ -13,22 +13,28 @@ I’m a Data Scientist with 5+ years of experience applying machine learning, pr
 
 ⸻
 
-🚀 My journey spans diverse industries, from manufacturing to financial services and consumer goods. At CNH Industrial, I developed supervised learning models (XGBoost, Random Forest) in Python/SQL using lifecycle and warranty data, improving pricing precision by 22%, and built Monte Carlo simulations to test premium sensitivity under inflation and equipment complexity, strengthening forecasting and reducing approval cycles by 40%. At SS&C Technologies, I advanced from Business Analyst to Senior Business Analyst, building Tableau/Excel dashboards integrated with AWS and SQL pipelines that improved reporting accuracy to 99% and cut preparation time by 25%. I also created advanced Excel VBA forecasting models that boosted credit risk classification accuracy to 93% and reduced portfolio defaults by 12%. Earlier at Lactalis India, I partnered with finance and strategy teams to build forecasting models and profitability dashboards, uncovering ~$1.52M in margin leakage and driving leadership decisions that improved gross margin by 4.2%, while automation through Excel VBA saved 40+ hours per month and enhanced reporting accuracy.
+🚀 **My Journey**  
+
+- **CNH Industrial** – Developed supervised learning models (XGBoost, Random Forest) in Python/SQL using lifecycle and warranty data, improving pricing precision by 22%. Built Monte Carlo simulations to test premium sensitivity under inflation and equipment complexity, strengthening forecasting and reducing approval cycles by 40%.  
+
+- **SS&C Technologies** – Advanced from Business Analyst to Senior Business Analyst, building Tableau/Excel dashboards integrated with AWS and SQL pipelines that improved reporting accuracy to 99% and reduced preparation time by 25%. Created advanced Excel VBA forecasting models that boosted credit risk classification accuracy to 93% and reduced portfolio defaults by 12%.  
+
+- **Lactalis India** – Partnered with finance and strategy teams to build forecasting models and profitability dashboards, uncovering ~$1.52M in margin leakage and driving leadership decisions that improved gross margin by 4.2%. Streamlined recurring reporting through Excel VBA automation, saving 40+ hours per month and enhancing reporting accuracy.  
 
 ⸻
 
-🎓 Education
-	•	M.S. in Business Analytics – University of Wisconsin–Madison (GPA: 3.90)
-	•	MBA in Finance – ICFAI University (GPA: 3.24)
-	•	B.Tech in Electronics & Communications – K L University (GPA: 3.54)
+🎓 **Education**
+- M.S. in Business Analytics – University of Wisconsin–Madison (GPA: 3.90)  
+- MBA in Finance – ICFAI University (GPA: 3.24)  
+- B.Tech in Electronics & Communications – K L University (GPA: 3.54)  
 
-⸻
+---
 
-🌐 Professional Highlights
-	•	Designed supervised ML models and Monte Carlo simulations at CNH to optimize insurance pricing and reduce financial risk.
-	•	Built credit risk forecasting models, dashboards, and automated reporting pipelines at SS&C, improving accuracy and reducing defaults.
-	•	Developed forecasting models and profitability dashboards at Lactalis, uncovering losses and driving 4.2% margin improvement.
-	•	Experienced in SQL, Python (pandas, scikit-learn, XGBoost), Tableau, Power BI, Excel VBA, AWS (Glue, S3, Redshift), and Snowflake.
+🌐 **Professional Highlights**
+- Designed supervised ML models and Monte Carlo simulations at CNH to optimize insurance pricing and reduce financial risk.  
+- Built credit risk forecasting models, dashboards, and automated reporting pipelines at SS&C, improving accuracy and reducing defaults.  
+- Developed forecasting models and profitability dashboards at Lactalis, uncovering losses and driving 4.2% margin improvement.  
+- Experienced in SQL, Python (pandas, scikit-learn, XGBoost), Tableau, Power BI, Excel VBA, AWS (Glue, S3, Redshift), and Snowflake.  
 
 ⸻
 
