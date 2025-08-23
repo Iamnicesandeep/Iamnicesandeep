@@ -1,4 +1,6 @@
-# Hi, I’m Sandeep! 👋 Welcome to my GitHub!
+# Hi, I’m Sandeep! 
+
+# 👋 Welcome to my GitHub!
 
 
 <p align="center">
