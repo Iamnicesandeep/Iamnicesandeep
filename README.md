@@ -9,7 +9,7 @@
 
 
 
-I’m a Data Scientist with 5+ years of experience applying machine learning, predictive analytics, and data engineering across financial services, manufacturing, and consumer goods. I specialize in Python, SQL, Excel (VBA), Tableau, and AWS/Snowflake, using these tools to build predictive models, Monte Carlo simulations, dashboards, and automated pipelines that improve decision-making and business performance.
+I’m a Data Enthusiast with 5+ years of experience applying machine learning, predictive analytics, and data engineering across financial services, manufacturing, and consumer goods. I specialize in Python, SQL, Excel (VBA), Tableau, and AWS/Snowflake, using these tools to build predictive models, Monte Carlo simulations, dashboards, and automated pipelines that improve decision-making and business performance.
 
 ⸻
 
