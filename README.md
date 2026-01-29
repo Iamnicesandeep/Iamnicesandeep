@@ -16,7 +16,6 @@ I’m a data analytics professional with 5+ years of experience applying machine
 
 **Adobe — Data Analyst (Jul 2025 – Dec 2025)**
 
-## Overview
 At Adobe, I worked on analytics and modeling initiatives focused on improving operational efficiency and issue resolution using data-driven approaches. My role combined ETL development, data analysis, and predictive modeling to support faster identification and prioritization of high-impact cases.
 
 Key Contributions
@@ -29,7 +28,6 @@ SQL, ETL Development, Python, Predictive Modeling, Data Analysis, Cross-Function
 
 **Wisconsin School of Business (Client: CNH Industrial) — Data Scientist (Jan 2025 – May 2025)**
 
-Overview
 As part of a capstone engagement with CNH Industrial, I worked on applied data science problems focused on pricing and risk analytics. The project emphasized combining structured data integration, statistical modeling, and forecasting to support business decision-making in a real-world manufacturing and warranty context.
 
 Key Contributions
@@ -42,7 +40,6 @@ SQL, Python, Clustering, Forecasting, Statistical Modeling, Business Analytics
 
 **SS&C Technologies — Business Analyst (Apr 2021 – Aug 2024)**
 
-Overview
 At SS&C Technologies, I supported enterprise-scale analytics and process improvement initiatives across fund servicing and financial operations. My role spanned data modeling, BI reporting, workflow optimization, automation, experimentation, and cross-functional delivery in a highly regulated environment.
 
 Key Contributions
@@ -58,7 +55,6 @@ Business Analysis, Data Modeling, Power BI, Tableau, Snowflake, Scenario Analysi
 
 **Wipro — Data Analyst (Jun 2018 – Jun 2019)**
 
-Overview
 At Wipro, I worked as a Data Analyst supporting project teams with analytics, automation, and data validation in a fast-paced delivery environment. This role helped me build a strong foundation in SQL, Python, and analytical problem-solving while working closely with stakeholders to improve data reliability and reporting efficiency.
 
 Key Contributions
