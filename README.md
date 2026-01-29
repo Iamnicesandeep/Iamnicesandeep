@@ -8,18 +8,68 @@
 </p>
 
 
-
-I’m a Data Enthusiast with 5+ years of experience applying machine learning, predictive analytics, and data engineering across financial services, manufacturing, and consumer goods. I specialize in Python, SQL, Excel (VBA), Tableau, and AWS/Snowflake, using these tools to build predictive models, Monte Carlo simulations, dashboards, and automated pipelines that improve decision-making and business performance.
+I’m a data analytics professional with 5+ years of experience applying machine learning, predictive analytics, and data engineering to solve business problems across financial services, manufacturing, and consumer domains. I specialize in Python, SQL, and cloud data platforms to build predictive models, automated pipelines, and decision-ready dashboards that drive measurable business impact.
 
 ⸻
 
 🚀 **My Journey**  
 
-- **CNH Industrial** – Developed supervised learning models (XGBoost, Random Forest) in Python/SQL using lifecycle and warranty data, improving pricing precision by 22%. Built Monte Carlo simulations to test premium sensitivity under inflation and equipment complexity, strengthening forecasting and reducing approval cycles by 40%.  
 
-- **SS&C Technologies** – Advanced from Business Analyst to Senior Business Analyst, building Tableau/Excel dashboards integrated with AWS and SQL pipelines that improved reporting accuracy to 99% and reduced preparation time by 25%. Created advanced Excel VBA forecasting models that boosted credit risk classification accuracy to 93% and reduced portfolio defaults by 12%.  
+**Adobe — Data Analyst (Jul 2025 – Dec 2025)**
 
-- **Lactalis India** – Partnered with finance and strategy teams to build forecasting models and profitability dashboards, uncovering ~$1.52M in margin leakage and driving leadership decisions that improved gross margin by 4.2%. Streamlined recurring reporting through Excel VBA automation, saving 40+ hours per month and enhancing reporting accuracy.  
+Overview
+At Adobe, I worked on analytics and modeling initiatives focused on improving operational efficiency and issue resolution using data-driven approaches. My role combined ETL development, data analysis, and predictive modeling to support faster identification and prioritization of high-impact cases.
+
+Key Contributions
+	•	Developed and maintained SQL-based ETL pipelines to ingest, transform, and validate large-scale customer and account datasets, improving data quality and supporting analytics that reduced resolution time by 27%.
+	•	Built classification models on customer and account data to identify patterns behind repeat issues, enabling earlier detection and shortening triage and resolution cycles by 25%.
+	•	Partnered with cross-functional teams to translate analytical findings into actionable insights that supported operational decision-making and process improvements.
+
+Skills & Tools
+SQL, ETL Development, Python, Predictive Modeling, Data Analysis, Cross-Functional Collaboration
+
+
+**Wisconsin School of Business (Client: CNH Industrial) — Data Scientist (Jan 2025 – May 2025)**
+
+Overview
+As part of a capstone engagement with CNH Industrial, I worked on applied data science problems focused on pricing and risk analytics. The project emphasized combining structured data integration, statistical modeling, and forecasting to support business decision-making in a real-world manufacturing and warranty context.
+
+Key Contributions
+	•	Integrated lifecycle and warranty data from multiple source tables using advanced SQL techniques, preparing datasets for downstream analysis and modeling.
+	•	Applied Python-based statistical modeling, including clustering-based segmentation and forecasting methods, to analyze warranty behavior and risk exposure.
+	•	Strengthened risk forecasts by 30%, enabling leadership to evaluate pricing strategies, premium adjustments, and risk scenarios during pricing and review discussions.
+
+Skills & Tools
+SQL, Python, Clustering, Forecasting, Statistical Modeling, Business Analytics
+
+**SS&C Technologies — Business Analyst (Apr 2021 – Aug 2024)**
+
+Overview
+At SS&C Technologies, I supported enterprise-scale analytics and process improvement initiatives across fund servicing and financial operations. My role spanned data modeling, BI reporting, workflow optimization, automation, experimentation, and cross-functional delivery in a highly regulated environment.
+
+Key Contributions
+	•	Analyzed fund accounting and transaction data using Excel (VBA, pivots, Power Query) to surface recurring anomalies, strengthening financial data integrity by 25% and reducing downstream reconciliation issues.
+	•	Improved analytics and operational workflows across legacy systems by identifying bottlenecks and manual handoffs through Power BI analysis, reducing repeat effort by 15%.
+	•	Built and maintained Power BI and Tableau dashboards used in leadership reviews to track business KPIs and exception trends, shortening decision cycles and improving responsiveness to emerging fund servicing issues.
+	•	Transitioned manual, file-driven analytics workflows to Snowflake-based automation, standardizing data extracts that reduced analyst effort and increased straight-through processing by 22%.
+	•	Led data integration during a 2022 merger, using scenario analysis to evaluate process changes through volume and error trends, tracking fixes in Jira and Confluence, and improving delivery timelines by 20%.
+	•	Owned end-to-end A/B testing for a client marketing campaign, translating test insights into recommendations that increased revenue 15% above forecast, earning an Employee of the Quarter award.
+
+Skills & Tools
+Business Analysis, Data Modeling, Power BI, Tableau, Snowflake, Scenario Analysis, A/B Testing, Agile Delivery (Jira, Confluence)
+
+**Wipro — Data Analyst (Jun 2018 – Jun 2019)**
+
+Overview
+At Wipro, I worked as a Data Analyst supporting project teams with analytics, automation, and data validation in a fast-paced delivery environment. This role helped me build a strong foundation in SQL, Python, and analytical problem-solving while working closely with stakeholders to improve data reliability and reporting efficiency.
+
+Key Contributions
+	•	Automated routine analytical workflows using SQL queries and Python scripts, reducing manual data preparation time by 30% and improving reliability of recurring deliverables.
+	•	Performed data validation and reconciliation across source and consumption layers using advanced SQL techniques (joins, CTEs, subqueries), helping reduce recurring data issues and increase confidence in weekly analytics.
+	•	Supported project teams by delivering consistent, accurate analytical outputs, enabling smoother downstream reporting and decision-making.
+
+Skills & Tools
+SQL, Python, Data Validation, Workflow Automation, Analytical Reporting
 
 ⸻
 
@@ -46,7 +96,7 @@ I enjoy playing badminton, hiking, and exploring new cities — finding fresh pe
 
 ## 💼 Skills
 
-- **Languages/Tools:** SQL (advanced), Snowflake, Python, Excel (advanced), Tableau, Power BI, VBA, Jira 
+- **Languages/Tools:** SQL (advanced), Snowflake, Python, Excel (advanced), Tableau, Power BI, Power Query, VBA, Jira 
 - **Data Systems:** Relational Databases, ETL Pipelines, Financial Data Systems  
 - **Cloud Technology:** AWS (S3, Glue, Redshift, SageMaker)  
 - **Domains:** Financial Services, Risk Analytics, Business Process Optimization  
@@ -80,7 +130,7 @@ Designed a scalable AWS architecture (S3, Glue, Redshift, SageMaker) to predict 
 
 ## 🤝 Let’s Connect!
 
-- **Email:** [sandeepkarumudi3@gmail.com](mailto:sandeepkarumudi3@gmail.com)  
+- **Email:** [iamsandeepforever@gmail.com](mailto:iamsandeepforever@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/sandeepk96](https://www.linkedin.com/in/sandeepk96)  
 - **GitHub:** [github.com/sandeepk96](https://github.com/sandeepk96)  
 
