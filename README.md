@@ -14,7 +14,7 @@ I’m a data analytics professional with 5+ years of experience applying machine
 
 🚀 **My Journey**  
 
-**Adobe — Data Analyst (Jul 2025 – Dec 2025)**
+**Adobe — Data Analyst (Jul 2025 – Jan 2026)**
 
 At Adobe, I worked on analytics and modeling initiatives focused on improving operational efficiency and issue resolution using data-driven approaches. My role combined ETL development, data analysis, and predictive modeling to support faster identification and prioritization of high-impact cases.
 
@@ -53,7 +53,7 @@ At SS&C Technologies, I supported enterprise-scale analytics and process improve
 **Skills & Tools**
 Business Analysis, Data Modeling, Power BI, Tableau, Snowflake, Scenario Analysis, A/B Testing, Agile Delivery (Jira, Confluence)
 
-**Wipro — Data Analyst (Jun 2018 – Jun 2019)**
+**Wipro — Junior Data Analyst (Jun 2018 – Jun 2019)**
 
 At Wipro, I worked as a Data Analyst supporting project teams with analytics, automation, and data validation in a fast-paced delivery environment. This role helped me build a strong foundation in SQL, Python, and analytical problem-solving while working closely with stakeholders to improve data reliability and reporting efficiency.
 
