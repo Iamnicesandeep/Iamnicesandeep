@@ -8,7 +8,7 @@
 </p>
 
 
-I’m a data analytics professional with 5+ years of experience applying machine learning, predictive analytics, and data engineering to solve business problems across financial services, manufacturing, and consumer domains. I specialize in Python, SQL, and cloud data platforms to build predictive models, automated pipelines, and decision-ready dashboards that drive measurable business impact.
+I’m a Business Analyst with 5+ years of experience applying machine learning, predictive analytics, and data engineering to solve business problems across financial services, manufacturing, and consumer domains. I specialize in Python, SQL, and cloud data platforms to build predictive models, automated pipelines, and decision-ready dashboards that drive measurable business impact.
 
 ⸻
 
