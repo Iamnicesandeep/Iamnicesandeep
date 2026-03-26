@@ -14,9 +14,9 @@ I’m a data analytics professional with 5+ years of experience applying machine
 
 🚀 **My Journey**  
 
-**Adobe — Data Analyst (Jul 2025 – Jan 2026)**
+**Nexus AI — Data Analyst (Jul 2025 – Jan 2026)**
 
-At Adobe, I worked on analytics and modeling initiatives focused on improving operational efficiency and issue resolution using data-driven approaches. My role combined ETL development, data analysis, and predictive modeling to support faster identification and prioritization of high-impact cases.
+At Nexus AI, I worked as a Data Analyst supporting Adobe as a client, focused on analytics and modeling initiatives to improve operational efficiency and issue resolution. My role combined ETL development, data analysis, and predictive modeling to support faster identification and prioritization of high-impact cases.
 
 **Key Contributions**
 - Developed and maintained SQL-based ETL pipelines to ingest, transform, and validate large-scale customer and account datasets, improving data quality and supporting analytics that reduced resolution time by 27%.
@@ -96,7 +96,7 @@ I enjoy playing badminton, hiking, and exploring new cities — finding fresh pe
 
 - **Data Modeling & Analysis**: Data Modeling, Data Validation, Feature Engineering, Predictive Modeling, Scenario Analysis
 - **Programming & Querying**: SQL (advanced: joins, CTEs, subqueries), Python, R
-- **Analytics & BI Tools**: Excel (advanced: VBA, Power Query, pivots), Power BI, Tableau
+- **Analytics & BI Tools**: Excel (advanced: VBA, Power Query, pivots), Power BI, Tableau, Adobe Analytics
 - **Data Engineering & Platforms**: Snowflake, ETL Pipelines, Relational Databases
 - **Cloud & ML Platforms**: AWS (S3, Glue, Redshift, SageMaker)
 - **Statistical & ML Techniques**: Forecasting, Regression, Clustering, A/B Testing
