@@ -14,7 +14,7 @@ I’m a Business Analyst with 5+ years of experience applying machine learning, 
 
 🚀 **My Journey**  
 
-**Nexus AI — Data Analyst (Jul 2025 – Jan 2026)**
+**Nexus AI — Data Analyst (Jul 2025 – Apr 2026)**
 
 At Nexus AI, I worked as a Data Analyst supporting Adobe as a client, focused on analytics and modeling initiatives to improve operational efficiency and issue resolution. My role combined ETL development, data analysis, and predictive modeling to support faster identification and prioritization of high-impact cases.
 
