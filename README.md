@@ -132,8 +132,8 @@ Designed a scalable AWS architecture (S3, Glue, Redshift, SageMaker) to predict 
 
 ## 🤝 Let’s Connect!
 
-- **Email:** [iamsandeepforever@gmail.com](mailto:iamsandeepforever@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sandeepk96](https://www.linkedin.com/in/sandeepk96)  
+- **Email:** [san2deepka@gmail.com](mailto:san2deepka@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sandeepk96](https://www.linkedin.com/in/reddy15)  
 - **GitHub:** [github.com/Iamnicesandeep](https://github.com/Iamnicesandeep/)  
 
 Let’s collaborate on data-driven solutions that drive business value!
